@@ -20,8 +20,11 @@ Fill the remaining elements with 0.
 Edge Cases Handled
 
 ✅ All elements are zero (e.g., {0,0,0} → {0,0,0}).
+
 ✅ No adjacent duplicates (e.g., {1,2,3} → {1,2,3}).
+
 ✅ Single-element array (e.g., {5} → {5}).
+
 ✅ Already processed input
 
 Time complexity:
